@@ -1,0 +1,25 @@
+{
+  "name": "churcher",
+  "version": "0.0.1",
+  "description": "An opinionated \"serverless\" web framework designed to run on aws.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "serverless",
+    "ionic",
+    "vogles",
+    "web",
+    "framework",
+    "framework"
+  ],
+  "author": "Jt Gleason <jt@entropyfails.com>",
+  "license": "MIT",
+  "bin": {
+    "churcher": "bin/churcher.js"
+  },
+  "dependencies": {
+    "shelljs": "^0.7.6"
+  }
+}
