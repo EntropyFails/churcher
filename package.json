@@ -1,5 +1,6 @@
 {
   "name": "churcher",
+  "repository":"entropyfails/churcher",
   "version": "0.0.1",
   "description": "An opinionated \"serverless\" web framework designed to run on aws.",
   "main": "index.js",
